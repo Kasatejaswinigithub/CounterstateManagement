@@ -1,0 +1,12 @@
+h1{
+    margin-left:10%;
+}
+
+button{
+    color:blue;
+    width:100px;
+    padding:10px;
+    border:2px solid blue;
+    margin:10px;
+    border-radius:5px;
+}
